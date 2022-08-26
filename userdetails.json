@@ -1,0 +1,24 @@
+{
+    "user": [
+        {
+            "Username": "Pooja",
+            "Password": "Pooja@21",
+            "profile": {
+                "description": "I am coder",
+                "dob": "31/12/2003",
+                "hobbies": "reading book",
+                "gender": "female"
+            }
+        },
+        {
+            "Username": "Deepti",
+            "Password": "Deepti@26",
+            "profile": {
+                "description": "I am coder",
+                "dob": "26/10/2002",
+                "hobbies": "write peom",
+                "gender": "female"
+            }
+        }
+    ]
+}
